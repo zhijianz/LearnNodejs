@@ -11,4 +11,4 @@ function fetchResponse(url) {
 
 for (var i = 0; i < urls.length; i++) {
     fetchResponse(urls[i]);
-  }
+  } 
